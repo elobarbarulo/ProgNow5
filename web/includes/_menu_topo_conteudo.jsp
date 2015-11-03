@@ -16,7 +16,7 @@
                 <li><a href="index.html">Home</a></li>
 
                 <li class="dropdown mega-dropdown active">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Admissions<span class="caret"></span></a>				
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Cursos<span class="caret"></span></a>				
                     <div class="dropdown-menu mega-dropdown-menu">
                         <div class="container-fluid">
                             <!-- Tab panes -->
